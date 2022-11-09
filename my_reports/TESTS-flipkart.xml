@@ -1,0 +1,52 @@
+<testsuite name="flipkart.login flipkart" tests="1" errors="0" failures="0" skipped="0" time="167.478134" timestamp="2022-11-09T11:38:57.462489" hostname="DESKTOP-KBQAHPL"><testcase classname="flipkart.login flipkart" name="login data -- @1.1 " status="passed" time="167.478134"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario Outline: login data -- @1.1 
+    Given we navigate to flipkart homepage ... passed in 25.416s
+    When we click on the login button ... passed in 0.412s
+    Then we type in the "8296299139" edit box ... passed in 0.884s
+    And we type in the "janu@123" field ... passed in 0.424s
+    Then we click on the sign in button ... passed in 0.103s
+    Then type "Novels in english" in search bar ... passed in 3.088s
+    And Click on search button ... passed in 0.217s
+    Then Check on Relevance is clickable ... passed in 6.374s
+    Then Check on popularity is clickable ... passed in 5.201s
+    Then Check on Price low-high is clickable ... passed in 5.175s
+    Then Check on Price high-low is clickable ... passed in 5.205s
+    Then Check on newest first is clickable ... passed in 5.266s
+    Then we validate for filter text ... passed in 5.186s
+    Then we select min price ... passed in 6.491s
+    And open GO links ... passed in 0.035s
+    And click assured checkbox ... passed in 0.012s
+    And click on offers ... passed in 20.712s
+    And click on rating checkbox 4* above and 3* above ... passed in 23.443s
+    And click on Availability ... passed in 30.363s
+    And click on language ... passed in 23.472s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</system-out></testcase></testsuite>

@@ -1,0 +1,276 @@
+2022-11-08 11:53:38,889 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 11:53:39,571 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 11:53:39,728 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 11:53:40,053 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 11:53:40,261 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 11:53:40,819 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 11:57:29,458 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 11:57:30,280 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 11:57:30,460 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 11:57:30,791 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 11:57:30,945 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 11:57:31,035 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 12:08:26,234 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 12:08:26,948 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 12:08:27,114 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 12:08:27,388 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 12:08:27,571 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 12:08:27,662 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 12:23:50,019 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 12:23:50,795 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 12:23:51,031 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 12:23:51,260 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 12:23:51,447 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 12:23:51,531 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 12:40:02,483 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 12:40:03,188 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 12:40:03,348 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 12:40:03,560 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 12:40:03,732 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 12:40:03,838 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 12:50:58,929 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 12:50:59,590 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 12:50:59,771 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 12:51:00,036 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 12:51:00,308 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 12:51:00,435 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 12:53:00,435 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 12:53:01,118 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 12:53:01,276 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 12:53:01,460 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 12:53:01,664 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 12:53:01,760 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 12:58:05,315 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 12:58:06,412 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 12:58:06,574 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 12:58:06,770 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 12:58:06,996 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 12:58:07,088 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 13:01:45,409 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 13:01:45,677 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 13:01:46,074 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 13:01:46,337 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 13:01:46,499 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 13:01:46,587 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 13:08:45,792 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 13:08:46,453 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 13:08:46,662 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 13:08:46,868 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 13:08:47,159 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 13:08:47,245 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 13:14:45,954 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 13:14:46,277 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 13:14:46,607 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 13:14:46,916 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 13:14:47,121 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 13:14:47,250 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 13:17:22,329 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 13:17:23,191 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 13:17:23,507 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 13:17:23,721 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 13:17:23,921 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 13:17:24,022 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 13:21:47,775 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 13:21:48,711 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 13:21:49,201 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 13:21:49,666 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 13:21:49,875 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 13:21:49,981 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 13:26:14,184 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 13:26:15,192 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 13:26:15,460 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 13:26:15,827 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 13:26:16,080 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 13:26:16,174 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 14:40:14,772 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 14:40:15,535 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 14:40:15,771 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 14:40:16,018 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 14:40:16,202 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 14:40:16,320 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 14:49:35,283 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 14:49:35,982 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 14:49:36,172 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 14:49:36,444 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 14:49:36,641 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 14:49:36,783 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 14:55:58,452 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 14:55:58,855 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 14:55:59,410 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 14:55:59,663 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 14:55:59,891 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 14:56:00,045 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 15:01:22,936 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 15:01:23,635 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 15:01:23,787 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 15:01:24,031 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 15:01:24,205 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 15:01:24,313 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 15:07:35,560 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 15:07:36,207 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 15:07:36,456 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 15:07:36,696 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 15:07:36,909 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 15:07:37,019 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 15:15:20,237 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 15:15:20,940 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 15:15:21,102 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 15:15:21,463 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 15:15:21,681 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 15:15:21,795 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 15:19:46,122 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 15:19:46,837 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 15:19:47,054 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 15:19:47,304 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 15:19:47,529 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 15:19:47,687 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 15:34:08,418 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 15:34:09,185 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 15:34:09,343 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 15:34:09,544 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 15:34:09,727 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 15:34:09,818 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 15:39:46,697 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 15:39:47,578 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 15:39:47,745 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 15:39:47,966 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 15:39:48,157 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 15:39:48,244 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 15:42:34,395 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 15:42:34,552 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 15:42:34,722 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 15:42:35,391 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 15:42:35,570 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 15:42:35,679 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 15:48:15,642 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 15:48:16,211 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 15:48:16,391 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 15:48:16,595 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 15:48:16,755 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 15:48:16,838 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 16:17:57,464 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 16:17:58,140 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 16:17:58,293 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 16:17:58,488 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 16:17:58,664 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 16:17:58,778 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 16:23:30,637 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 16:23:31,285 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 16:23:31,456 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 16:23:31,655 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 16:23:31,815 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 16:23:31,907 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 16:45:07,152 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 16:45:07,848 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 16:45:08,025 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 16:45:08,223 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 16:45:08,402 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 16:45:08,498 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 16:46:53,967 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 16:46:54,688 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 16:46:54,857 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 16:46:55,074 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 16:46:55,277 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 16:46:55,363 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 16:52:00,880 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 16:52:02,013 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 16:52:02,774 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 16:52:03,330 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 16:52:03,506 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 16:52:03,603 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:01:38,195 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:01:38,841 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:01:39,046 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:01:39,302 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:01:39,501 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:01:39,596 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:04:16,928 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:04:17,535 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:04:17,705 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:04:17,946 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:04:18,161 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:04:18,249 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:05:33,954 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:05:34,590 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:05:34,778 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:05:35,115 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:05:35,319 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:05:35,410 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:10:20,541 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:10:21,136 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:10:21,293 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:10:21,490 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:10:21,722 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:10:21,855 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:13:32,513 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:13:33,218 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:13:33,550 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:13:33,901 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:13:34,061 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:13:34,149 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:15:32,309 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:15:32,635 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:15:33,264 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:15:33,521 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:15:33,737 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:15:33,880 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:16:53,771 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:16:54,828 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:16:55,101 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:16:55,425 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:16:55,631 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:16:55,729 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:19:04,947 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:19:05,920 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:19:06,303 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:19:07,154 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:19:07,609 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:19:07,708 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:21:56,595 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:21:57,290 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:21:57,452 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:21:57,714 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:21:57,909 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:21:58,021 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:24:54,984 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:24:55,916 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:24:56,650 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:24:57,559 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:24:57,756 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:24:57,867 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:27:55,487 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:27:55,799 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:27:56,189 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:27:56,718 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:27:56,922 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:27:57,047 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:38:21,599 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:38:22,448 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:38:22,652 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:38:22,951 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:38:23,188 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:38:23,299 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:47:40,504 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:47:40,752 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:47:40,935 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:47:41,595 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:47:41,891 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:47:41,989 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 17:59:00,822 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 17:59:02,073 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 17:59:02,451 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 17:59:02,809 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 17:59:03,018 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 17:59:03,141 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 18:06:31,762 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 18:06:32,438 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 18:06:32,610 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 18:06:32,801 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 18:06:32,983 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 18:06:33,070 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-08 18:07:48,918 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-08 18:07:49,642 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-08 18:07:49,800 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-08 18:07:49,988 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-08 18:07:50,227 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-08 18:07:50,309 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
